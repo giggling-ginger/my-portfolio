@@ -4,7 +4,7 @@ export const projects = [
     description:
       "Built a decentralized twitter with lens protocol. Set up a Next.js app with an Apollo GraphQL client. Used the Lens protocol API to fetch profiles, posts, and other data stored on the Polygon blockchain.",
     image: "/images/1.png",
-    tags: ["Next.js", "JavaScript"],
+    tags: ["Next.js", "JavaScript", "GraphQL"],
     source: "https://decentralised-twitter.vercel.app/",
     visit: "https://github.com/giggling-ginger/decentralised-twitter",
     id: 0,
@@ -12,9 +12,9 @@ export const projects = [
   {
     title: "NFT Marketplace",
     description:
-      "Built an NFT marketplace from scratch: frontend, data storage, and smart contracts.",
+      "Built my own NFT marketplace from scratch: frontend, data storage, and smart contracts, using Alchemy, IPFS, Hardhat and ethers.js. Focused on building the smart contract while the frontend code was provided. ",
     image: "/images/2.png",
-    tags: ["React", "Solidity"],
+    tags: ["Solidity", "Alchemy", "IPFS", "Hardhat", "ethers.js"],
     source: "https://nft-marketplace-phi-jade.vercel.app/",
     visit: "https://github.com/giggling-ginger/nft-marketplace",
     id: 1,
